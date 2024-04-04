@@ -15,3 +15,9 @@ As of now, only two rest apis.
    - Submit a ticket data for indexing 
 - POST /findsimilar
    - Submit a ticket data for searching similar tickets   
+
+# TODO
+- [ ] Get the indexpath from jvm option
+- [ ] Use standard logger
+- [ ] Include embeddings when indexing
+- [ ] Use embeddings (knn vector) for computing similarities
