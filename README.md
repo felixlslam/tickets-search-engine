@@ -20,4 +20,4 @@ As of now, only two rest apis.
 - [ ] Get the indexpath from jvm option
 - [ ] Use standard logger
 - [ ] Include embeddings when indexing
-- [ ] Use embeddings (knn vector) for computing similarities
+- [ ] Use embeddings (knn vector) for computing similarities (refer to https://www.apachecon.com/acna2022/slides/04_lucene_vector_search_sokolov.pdf)
